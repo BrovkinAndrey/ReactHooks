@@ -1,4 +1,5 @@
 import Table from './Table';
+import Counter from './Counter';
 
 const list = [
   {
@@ -25,7 +26,12 @@ const list = [
 ];
 
 const App = () => {
-  return <Table data={list} />;
+  return (
+    <>
+      <Table data={list} />
+      <Counter />
+    </>
+  );
 };
 
 export default App;
