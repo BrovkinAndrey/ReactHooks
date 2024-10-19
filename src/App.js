@@ -1,5 +1,6 @@
 import Table from './Table';
 import Counter from './Counter';
+import Buttons from './Buttons';
 
 const list = [
   {
@@ -30,6 +31,7 @@ const App = () => {
     <>
       <Table data={list} />
       <Counter />
+      <Buttons count={5} />
     </>
   );
 };
