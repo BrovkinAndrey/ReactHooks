@@ -1,6 +1,8 @@
 import Table from './Table';
 import Counter from './Counter';
 import Buttons from './Buttons';
+import DinamicForm from './DinamicForm';
+import './App.css';
 
 const list = [
   {
@@ -29,9 +31,10 @@ const list = [
 const App = () => {
   return (
     <>
-      <Table data={list} />
-      <Counter />
+      <DinamicForm />
       <Buttons count={5} />
+      <Counter />
+      <Table data={list} />
     </>
   );
 };

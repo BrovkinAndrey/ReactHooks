@@ -1,0 +1,9 @@
+.dinamic-form {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.field {
+  display: flex;
+  justify-content: space-between;
+}
