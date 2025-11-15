@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.6b5fab6a.css",
-    "main.js": "/my-app/static/js/main.bc1f6888.js",
-    "static/js/453.a894b3e1.chunk.js": "/my-app/static/js/453.a894b3e1.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.6b5fab6a.css.map": "/my-app/static/css/main.6b5fab6a.css.map",
-    "main.bc1f6888.js.map": "/my-app/static/js/main.bc1f6888.js.map",
-    "453.a894b3e1.chunk.js.map": "/my-app/static/js/453.a894b3e1.chunk.js.map"
+    "main.css": "/BrovkinAndrey/ReactHooks/static/css/main.6b5fab6a.css",
+    "main.js": "/BrovkinAndrey/ReactHooks/static/js/main.8ba9623f.js",
+    "static/js/453.a894b3e1.chunk.js": "/BrovkinAndrey/ReactHooks/static/js/453.a894b3e1.chunk.js",
+    "index.html": "/BrovkinAndrey/ReactHooks/index.html",
+    "main.6b5fab6a.css.map": "/BrovkinAndrey/ReactHooks/static/css/main.6b5fab6a.css.map",
+    "main.8ba9623f.js.map": "/BrovkinAndrey/ReactHooks/static/js/main.8ba9623f.js.map",
+    "453.a894b3e1.chunk.js.map": "/BrovkinAndrey/ReactHooks/static/js/453.a894b3e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b5fab6a.css",
-    "static/js/main.bc1f6888.js"
+    "static/js/main.8ba9623f.js"
   ]
 }
